@@ -1,0 +1,21 @@
+<tag1 value = "HelloWorld">
+	<tag3 name = "Shlomo">
+	</tag3>
+	<tag2 name = "Name1">
+		<tag3 name = "Tony">
+		</tag3>
+	</tag2>
+</tag1>
+
+
+
+<Users>
+	<User1 name = "Shlomo" gender = "Male">
+		<Child1 name = "Ben" gender = "Male">
+		</Child1>
+	</User1>
+	<User2 name = "Tony" gender = "Male">
+		<Child1 name = "Shira" gender = "Female">
+		</Child1>
+	</User2>
+</Users>
